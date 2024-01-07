@@ -1,4 +1,4 @@
-# IntuneScopeTagManagement
+# Intune Scope Tag Management
 
 ![screenshot](https://github.com/ugurkocde/IntuneScopeTagManagement/assets/43906965/fbf1cfac-2450-4af9-9414-c8fc61fa7fb2)
 
