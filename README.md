@@ -13,6 +13,10 @@ Search Functionality: Filter devices by name or ID.
 Data Export: Export the list of devices and their associated scope tags to a CSV file.
 User-Friendly Interface: A graphical interface for ease of use.
 
+# Work in progress
+- Support for Policies
+- Support for Apps
+
 # Requirements
 1. PowerShell 5.1 or higher.
 2. Microsoft Graph PowerShell SDK.
